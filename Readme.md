@@ -1,8 +1,8 @@
-<h2>Drum Kit Simulator<h2>
+# Drum Kit Simulator<
 
-![preview-img](/images/preview.png);
+[preview-img](/images/preview.png);
 
-Welcome to the Drum Kit Simulator! This is a fun and interactive frontend project that allows you to create your own tunes or music by simply pressing some keys on your keyboard. It simulates a virtual drum kit, and each key corresponds to a specific drum sound. Let's get started and create some beats!
+Welcome to the Drum Kit Simulator! This is a fun and interactive frontend project that allows you to create your own tunes or music by simply pressing some keys on your keyboard. It simulates a virtual drum kit, and each key corresponds to a specific drum sound. Let's get started and create some beats.
 
 ## Demo
 
